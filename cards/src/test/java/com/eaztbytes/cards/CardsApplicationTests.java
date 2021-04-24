@@ -1,10 +1,10 @@
-package com.eaztbytes.loans;
+package com.eaztbytes.cards;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LoansApplicationTests {
+class CardsApplicationTests {
 
 	@Test
 	void contextLoads() {

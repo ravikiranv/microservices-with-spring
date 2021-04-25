@@ -1,10 +1,10 @@
-package com.eaztbytes.cards;
+package com.eaztbytes.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CardsApplicationTests {
+class ConfigserverApplicationTests {
 
 	@Test
 	void contextLoads() {

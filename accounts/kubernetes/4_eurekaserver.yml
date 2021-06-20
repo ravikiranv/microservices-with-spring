@@ -35,6 +35,7 @@ spec:
             configMapKeyRef:
               name: eazybank-configmap
               key: SPRING_CONFIG_IMPORT
+
 ---
 apiVersion: v1
 kind: Service

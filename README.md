@@ -43,10 +43,24 @@ Learn how to create enterprise and production ready Microservices with Spring, S
 
 ## Maven Commands used in the course
 
-|     Command       |     Description          |
+|     Maven Command       |     Description          |
 | ------------- | ------------- |
 | "mvn clean install -Dmaven.test.skip=true" | To generate a jar inside target folder |
 | "mvn spring-boot:run" | To start a springboot maven project |
 | "mvn spring-boot:build-image -Dmaven.test.skip=true" | To generate a docker image using Buildpacks. No need of Dockerfile |
 
+## Docker Commands used in the course
+
+|     Docker Command       |     Description          |
+| ------------- | ------------- |
+| "docker build . -t eazybytes/accounts" | To generate a docker image based on a Dockerfile |
+| "docker run  -p 8081:8080 eazybytes/accounts" | To start a docker container based on a given image |
+| "docker images" | To list all the docker images present in the Docker server |
+| "docker ps" | To show all running containers |
+| "docker ps -a" | To show all containers including running and stopped |
+| "docker container start <container id>" | To start one or more stopped containers |
+| "docker container pause <container id>" | To pause all processes within one or more containers |
+| "docker container unpause <container id>" | To unpause all processes within one or more containers |
+| "docker container stop <container id>" | To stop one or more running containers|
+| "docker container inspect <container id>" | To inspect all the details for a given container id|
 

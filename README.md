@@ -17,9 +17,27 @@ Learn how to create enterprise and production ready Microservices with Spring, S
 * Section 12 - Monitoring Microservices Metrics & Health (Challenge 8)
 * Section 13 - Automatic self-heal, autoscale, deployments (Challenge 9)
 
-### Pre-requisite for the course
+## Pre-requisite for the course
 - Good understanding on Java and Spring concepts
 - Basic understanding on SpringBoot & REST services is a bonus but not mandatory
 - Interest to learn and explore about Microservices
 
+# Important Links
+- Spring Cloud Project - https://spring.io/projects/spring-cloud
+- Spring Cloud Config - https://spring.io/projects/spring-cloud-config
+- Spring Cloud Gateway - https://spring.io/projects/spring-cloud-gateway
+- Spring Cloud Netflix - https://spring.io/projects/spring-cloud-netflix
+- Spring Cloud Sleuth - https://spring.io/projects/spring-cloud-sleuth
+- The 12-factor App - https://12factor.net/
+- Docker - https://www.docker.com/
+- DockerHub - https://hub.docker.com/u/eazybytes
+- Cloud Native Buildpacks - https://buildpacks.io/
+- Resilience4j - https://resilience4j.readme.io/docs/getting-started
+- Zipkin - https://zipkin.io/
+- RabbitMQ - https://www.rabbitmq.com/
+- Micrometer - https://micrometer.io/
+- Prometheus - https://prometheus.io/
+- Grafana - https://grafana.com/
+- Kubernetes - https://kubernetes.io/
+- GCP - https://console.cloud.google.com/
 

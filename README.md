@@ -81,4 +81,14 @@ Learn how to create enterprise and production ready Microservices with Spring, S
 |     Kubernetes Command       |     Description          |
 | ------------- | ------------- |
 | "kubectl apply -f filename" | To create a deployment/service/configmap based on a given YAML file |
+| "kubectl get pods" | To get all the pods details inside your cluster |
+| "kubectl get pod pod-id" | To get the details of a given pod id |
+| "kubectl get services" | To get all the services details inside your cluster |
+| "kubectl get service service-id" | To get the details of a given service id |
+| "kubectl get replicasets" | To get all the replica sets details inside your cluster |
+| "kubectl get replicaset replicaset-id" | To get the details of a given replicaset |
+| "kubectl get deployments" | To get all the deployments details inside your cluster |
+| "kubectl get deployment deployment-id" | To get the details of a given deployment |
+| "kubectl get configmaps" | To get all the configmap details inside your cluster |
+| "kubectl get configmap configmap-id" | To get the details of a given configmap |
 

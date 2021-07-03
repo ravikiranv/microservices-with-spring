@@ -76,4 +76,9 @@ Learn how to create enterprise and production ready Microservices with Spring, S
 | "docker compose up" | To create and start containers based on given docker compose file |
 | "docker compose stop" | To stop services |
 
+## Kubernetes Commands used in the course
+
+|     Kubernetes Command       |     Description          |
+| ------------- | ------------- |
+| "kubectl apply -f filename" | To create a deployment/service/configmap based on a given YAML file |
 

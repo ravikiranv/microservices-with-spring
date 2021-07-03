@@ -41,3 +41,10 @@ Learn how to create enterprise and production ready Microservices with Spring, S
 - Kubernetes - https://kubernetes.io/
 - GCP - https://console.cloud.google.com/
 
+## Maven Commands used in the course
+
+|     Command       |     Description          |
+| ------------- | ------------- |
+| mvn clean install -Dmaven.test.skip=true | To generate a jar inside target folder |
+
+

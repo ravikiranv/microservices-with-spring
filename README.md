@@ -45,6 +45,7 @@ Learn how to create enterprise and production ready Microservices with Spring, S
 
 |     Command       |     Description          |
 | ------------- | ------------- |
-| mvn clean install -Dmaven.test.skip=true | To generate a jar inside target folder |
+| "mvn clean install -Dmaven.test.skip=true" | To generate a jar inside target folder |
+| "mvn spring-boot:run" | To start a springboot maven project |
 
 

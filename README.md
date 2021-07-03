@@ -16,3 +16,10 @@ Learn how to create enterprise and production ready Microservices with Spring, S
 * Section 11 - Distributed tracing & Log aggregation (Challenge 7)
 * Section 12 - Monitoring Microservices Metrics & Health (Challenge 8)
 * Section 13 - Automatic self-heal, autoscale, deployments (Challenge 9)
+
+### Pre-requisite for the course
+- Good understanding on Java and Spring concepts
+- Basic understanding on SpringBoot & REST services is a bonus but not mandatory
+- Interest to learn and explore about Microservices
+
+

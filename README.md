@@ -40,6 +40,7 @@ Learn how to create enterprise and production ready Microservices with Spring, S
 - Grafana - https://grafana.com/
 - Kubernetes - https://kubernetes.io/
 - GCP - https://console.cloud.google.com/
+- GConsole -  https://cloud.google.com/sdk
 
 ## Maven Commands used in the course
 
